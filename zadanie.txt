@@ -20,7 +20,7 @@ System.out.print(" "+a[i][j]);
 
 
 
-
+//2 задание
 public class Main
 {
 	
